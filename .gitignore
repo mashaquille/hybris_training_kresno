@@ -22,7 +22,7 @@ bin/
 **/web/commonwebsrc/*
 **/web/webroot/**/addons/*
 **/web/testclasses/*
-
+/.
 /custom/training/trainingstorefront/resources/wro_addons.xml
 /custom/training/trainingstorefront/web/webroot/_ui/responsive/theme-training/node_modules
 /custom/training/trainingstorefront/web/webroot/_ui/responsive/theme-training/.sass-cache
